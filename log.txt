@@ -1,4 +1,0 @@
-ERROR: server disconnected
-INFO: user logged in
-WARNING: low memory
-ERROR: failed to save
